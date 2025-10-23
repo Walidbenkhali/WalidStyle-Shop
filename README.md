@@ -62,6 +62,8 @@ WalidStyle Shop is a complete standalone e-commerce website designed for fashion
 
 ### Quick Start
 
+live preview :
+http://walidstyle.gt.tc
 1. Extract to web server directory
 2. Open: http://localhost/walidstyle-shop/
 3. Done!
