@@ -202,7 +202,7 @@ MIT License - Copyright © 2025 Walid Ben Khali
 ## 📧 Contact
 
 **Walid Ben Khali**
-- Email: info@walidstyle.com
+- Email: walidbenkhali2@gmail.com
 
 ---
 
