@@ -1,0 +1,28 @@
+# System Files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+Desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+
+# PHP Session Files
+*.sess
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.bak
+*.cache
+
+# Environment Files
+.env
+.env.local
